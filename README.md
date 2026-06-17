@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building a smart livestock monitoring system with AI and computer vision.  <br>👯 I’m looking to collaborate on open-source projects in web development and AI.  <br>🤝 I’m looking for help with improving real-time object detection models.  <br>🌱 I’m currently learning cloud computing and React for full-stack development.  <br>💬 Ask me about Python, machine learning, or setting up a BIND9 DNS server.  <br>⚡ Fun fact: I love hiking and once camped in a remote mountain village without electricity.  <br>
+🔭 I’m currently working on building a smart livestock monitoring system with AI and computer vision.  <br>👯 I’m looking to collaborate on open-source projects in web development and AI.  <br>🤝 I’m looking for help with improving real-time object detection models.  <br>🌱 I’m currently learning cloud computing and React for full-stack development.  <br>💬 Ask me about Python, machine learning, or setting up a BIND9 DNS server.  <br>⚡ Fun fact: I love hiking and i'am about to travel 200km in Romania by foot.  <br>
 
 
 # 💻 Tech Stack:
